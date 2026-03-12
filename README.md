@@ -6,7 +6,7 @@ A local web-based tool for exploring and downloading Pinterest images. Built wit
 
 ![Screenshot](display-img.png)
 
-https://github.com/DanielBartolic/pinterest-scraper/raw/main/demo.mp4
+![Demo](demo.gif)
 
 ## Features
 
