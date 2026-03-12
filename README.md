@@ -4,7 +4,9 @@ A local web-based tool for exploring and downloading Pinterest images. Built wit
 
 > **Disclaimer:** This project is for **educational and research purposes only**. Scraping Pinterest may violate their [Terms of Service](https://policy.pinterest.com/en/terms-of-service). The authors are not responsible for how this tool is used. Do not use it to infringe on copyrights or redistribute content without permission. Use at your own risk.
 
-![Screenshot](https://raw.githubusercontent.com/DanielBartolic/pinterest-scraper/main/static/logo.png)
+![Screenshot](display-img.png)
+
+https://github.com/DanielBartolic/pinterest-scraper/raw/main/demo.mp4
 
 ## Features
 
